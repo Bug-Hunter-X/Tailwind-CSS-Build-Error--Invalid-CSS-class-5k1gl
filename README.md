@@ -1,0 +1,3 @@
+# Tailwind CSS Build Error: Invalid CSS class
+
+This repository demonstrates a common Tailwind CSS build error and its solution.  The error arises when Tailwind cannot find or process a specified CSS utility class, leading to a runtime error.  This can happen due to typos in class names, incorrect Tailwind configuration, or issues during the build process. The solution involves carefully checking the class names, Tailwind configuration file (`tailwind.config.js`), and build process to ensure correct integration with your framework.
